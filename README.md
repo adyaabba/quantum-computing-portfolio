@@ -4,7 +4,7 @@ Welcome to my Quantum Computing Portfolio. Here you'll find a collection of my p
 
 ## Projects
 
-### 1. [Hello World with Qiskit] 
+### 1. Hello World with Qiskit
 - **Description**: My first tutorial exploring the basics of Qiskit. This notebook introduces quantum circuits, gates, and running a basic quantum program.
 - Files: `episode-3-hello-world.ipynb`
   
