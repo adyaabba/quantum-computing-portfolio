@@ -14,4 +14,4 @@ Welcome to my Quantum Computing Portfolio. Here you'll find a collection of my p
 
 ## Contact
 
-Feel free to reach out to me via adyaabba12@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/adya_abba).
+Feel free to reach out to me via adyaabba12@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/adya_abba](https://www.linkedin.com/in/adya-abba-abb0a11b9/)).
