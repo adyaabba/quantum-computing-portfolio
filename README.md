@@ -10,7 +10,7 @@ Welcome to my Quantum Computing Portfolio. Here you'll find a collection of my p
 
 ### 2. Qiskit Quantum Glasses
 - **Description**: Simulates a quantum system modeling single and multi-qubit gates using Qiskit. Run as a standalone python file ('python 'qiskit Quantum Glasses.py' into terminal and cd into your folder where this .py is located).
-- Files: `qiskit Quantum Glasses.py`
+- Files: `qiskit Quantum Glasses.py`, 'logo.png'
 
 ## Contact
 
