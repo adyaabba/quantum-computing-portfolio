@@ -14,9 +14,8 @@ Welcome to my Quantum Computing Portfolio. Here you'll find a collection of my p
 
 ### 3. Qiskit Summer School 2025
 - **Description**: Qiskit Summer School Projects ! My Solutions ! Exercises completed by me as part of the Qiskit Summer School ! Will be updating as the course continues.
--  These notebooks are based on materials from the Qiskit Global Summer School, © IBM.  
+-  (These notebooks are based on materials from the Qiskit Global Summer School, © IBM. ) 
 Licensed under the Apache 2.0 License. Original materials: https://github.com/qiskit-community/qiskit-global-summer-school
-
 - Files: `Lab0.ipynb`
 
 ## Contact
